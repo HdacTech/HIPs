@@ -3,7 +3,7 @@ HIPs
 This repository discusses and publishes the technical standards and proposals required for improvement of
 [Hdac cryptocurrency](https://hdactech.com/)
 
-Anyone with an idea or opinion for the HIP can liberaly propose [GitHub/issue](https://github.com/Hdactech/hdac/issues) with a simple idea or document.
+Anyone with an idea or opinion for the HIP can liberaly propose [GitHub/issue](https://github.com/Hdactech/HIPs/issues/new) with a simple idea or document.
 
 The idea above is possible with Hdac's technical standards, performance improvements, or any suggestions.
 
